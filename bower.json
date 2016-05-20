@@ -1,11 +1,11 @@
 {
   "name": "notificationstyles",
   "homepage": "https://github.com/jaquintana/notificationstyles",
-  "version": "1.0.0",
-  "_release": "1.0.0",
+  "version": "1.0.1",
+  "_release": "1.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "1.0.0",
+    "tag": "1.0.1",
     "commit": "95eee3a56a7287fb43df09f7f452b3147974e31b"
   },
    "main": [
