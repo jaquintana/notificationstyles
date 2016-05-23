@@ -9,7 +9,7 @@
     "commit": "95eee3a56a7287fb43df09f7f452b3147974e31b"
   },
    "main": [
-    "js/notificationFx.js"
+    "js/notificationFx.js","ns-default.css","ns-style-attached.css","ns-style-bar.css","ns-style-growl.css","ns-style-other.css"
   ],
   "_source": "https://github.com/jaquintana/notificationstyles.git",
   "_target": "^1.0.1",
